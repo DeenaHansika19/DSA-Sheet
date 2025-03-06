@@ -1,5 +1,4 @@
-# DSA-Sheet
-Preparing a DSA sheet for practice
+
 # 📚 DSA Sheet - Data Structures and Algorithms
 
 Welcome to the **DSA Sheet**! This repository is a comprehensive collection of problems and solutions to help you improve your skills in **Data Structures** and **Algorithms** (DSA). Whether you're preparing for interviews or aiming to strengthen your coding abilities, this sheet is designed to guide you through important topics, starting from the basics to more advanced concepts.
