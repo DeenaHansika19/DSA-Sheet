@@ -12,7 +12,7 @@ Welcome to the **DSA Sheet**! This repository is a comprehensive collection of p
 - [Languages Used](#languages-used)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
