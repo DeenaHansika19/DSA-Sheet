@@ -51,8 +51,6 @@ The solutions are written in the following programming language:
 - **C++**
 
 
-Feel free to contribute in other languages as well! 🚀
 
----
 
 
