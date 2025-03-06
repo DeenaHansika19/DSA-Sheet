@@ -10,8 +10,7 @@ Welcome to the **DSA Sheet**! This repository is a comprehensive collection of p
 - [Introduction](#introduction)
 - [Problem Categories](#problem-categories)
 - [Languages Used](#languages-used)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
+
 
 
 ---
